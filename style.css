@@ -1,0 +1,46 @@
+body{
+    margin: 0px;
+    background-color: #E6A64E;
+}
+
+header{
+    background-color: #E65C47;
+    text-align: center;
+    margin: auto;
+    font-size: 2rem;
+    padding: .75rem;
+}
+
+button{
+    border-radius: 6px;
+    font-size: 1rem;
+    padding: 5px;
+    /* text-align: center;
+    margin: auto; */
+}
+.buttondiv{
+    text-align: center;
+    margin: auto;
+    margin-top: 1rem;
+}
+.jokeDiv{
+    text-align: center;
+    margin: auto;
+}
+
+.outbox{
+    border: 2px solid black;
+    height: 5rem;
+    width: 80%;
+    overflow: auto;
+    text-align: center;
+    margin: auto;
+    background-color:#E6D64E;
+    font-size: 1.5rem;
+    padding-top: 5px;
+}
+
+.img{
+    text-align: center;
+    margin: auto;
+}
